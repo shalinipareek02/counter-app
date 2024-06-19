@@ -14,16 +14,19 @@ This is a simple counter app built with React. The app features a button to incr
 
 1. **Clone the repository**:
     git clone https://github.com/username/counter-app.git
+   
     cd counter-app
-    ```
 
-2. **Install dependencies**:
-    npm install
-    ```
 
-3. **Start the development server**:
+3. **Install dependencies**:
+
+   npm install
+
+
+4. **Start the development server**:
+
     npm start
-    ```
+
 
    This will open your React app in the browser.
 
